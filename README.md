@@ -1,3 +1,5 @@
+![capa](https://user-images.githubusercontent.com/68472770/178170614-ccb53f96-65b5-4c82-b77c-3e41e1ec92d3.png)
+
 ### Hello World. I'am Carolina Passarelli
 
 💉💊 Pharmacist, 📚 Ph.D. in Organic Chemistry, 👩‍🔬 Researcher, 🖥️🧬⚗️ Bio & Cheminformatics, 🎓 Professor, ⚙ Developer
