@@ -1,6 +1,6 @@
 ### Hello World. I'am Carolina Passarelli
 
-💉💊 Pharmacist, 📚 Ph.D. in Organic Chemistry, 👩‍🔬 Researcher, 🖥️🧬⚗️ Bioinformatics and Cheminformatics, 🎓 Professor, ⚙ Developer
+💉💊 Pharmacist, 📚 Ph.D. in Organic Chemistry, 👩‍🔬 Researcher, 🖥️🧬⚗️ Bio & Cheminformatics, 🎓 Professor, ⚙ Developer
 
 <hr>
 
